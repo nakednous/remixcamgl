@@ -7,5 +7,6 @@
 			<attribute name="javadoc_location" value="file:/home/pierre/workspace/remixcam/distribution/remixcam-1.0.0/reference/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jogl2_rc5"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
